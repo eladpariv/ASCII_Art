@@ -1,5 +1,43 @@
 # ASCII Art
 
+
+
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/981788dc-edf4-47df-b096-33104beadb15" alt="Image 5"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/78ba9343-ef3d-4f40-bcd9-e83b1fc88bbc" alt="Image 5"></td>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/54d81ff7-89f8-401c-a5ae-e2b3186c8664" alt="Image 5"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/fec07ebe-ce0b-496d-8e41-3ffbeaaed16b" alt="Image 5"></td>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/1eedeb5b-b8d6-4dd6-92cc-3ecf9d5a53e4" alt="Image 5"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/7c13816c-2f5b-4e8c-8b75-199b5914453e" alt="Image 5"></td>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/20758c77-11ea-475c-af23-8ef1f4fd5167" alt="Image 5"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/eladpariv/ASCII_Art/assets/96910425/e2da4e51-2fb1-4bec-a5c6-43359b908fab" alt="Image 5"></td>
+  </tr>
+</table>
+
+
+
 Explanation of all the need about this project:
 
 class BrightnessImgCharMatcher:
